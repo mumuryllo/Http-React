@@ -1,0 +1,54 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "camisa azul",
+      "preco": 49.9
+    },
+    {
+      "id": 2,
+      "nome": "camisa vermelha",
+      "preco": 69.9
+    },
+    {
+      "id": 3,
+      "nome": "camisa preta",
+      "preco": 39.9
+    },
+    {
+      "nome": "boné",
+      "preco": "20",
+      "id": 4
+    },
+    {
+      "nome": "blusa",
+      "preco": "30.50",
+      "id": 5
+    },
+    {
+      "nome": "muryllo soares",
+      "preco": "90",
+      "id": 6
+    },
+    {
+      "nome": "cwwccw",
+      "preco": "45",
+      "id": 7
+    },
+    {
+      "nome": "cwwccw",
+      "preco": "45",
+      "id": 8
+    },
+    {
+      "nome": "muryllo soares",
+      "preco": "",
+      "id": 9
+    },
+    {
+      "nome": "wccwwccw",
+      "preco": "345",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+npx create-react-app repositorio
+npm install
+npm install axios
+npm install react-icons
+npm install react-router-dom@5.2.0
+
+React Router e MiniBlog
+npm i firebase
+npm install react-router
+
+
+npm start
+npm install json-server 
+json-server --watch data/db.json
